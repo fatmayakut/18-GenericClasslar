@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Main {
 /** içerisinde tüm referans tiplerini tutan ve hangi referans tipini tutacağınıa oluştururken karar veren classlardr
-
  */
     public static void main(String[] args) {
         String[] dizistring = {"berfin", "rojda", "avşin"};
